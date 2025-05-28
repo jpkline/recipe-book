@@ -1,5 +1,17 @@
 # Pumpkin pie recipe
 
+## Ingredients
+
+- **1** pie shell
+- **1** nutmeg
+- **1** can of evaporated milk
+- **0.4 cup** sugar
+- **0.5 tsp** salt
+- **2 tsp** cinnamon
+- **1 tsp** ginger, ground or juice
+- **0.5 tsp** ground cloves
+- **2** eggs
+- **2 cups** pumpkin pulp
 
 ## Preparation
 
@@ -7,20 +19,6 @@
 - Bake pumpkin/squash
 - Take out the inside of the pumpkin
 - Use 2 cups of pumpkin pulp per pie
-
-
-## Ingredients
-
-- Pie shell
-- Nutmeg
-- Can of evaporated milk
-- 0.4 cup sugar
-- 0.5 tsp salt
-- 2 tsp cinnamon
-- 1 tsp ginger, ground or juice
-- 0.5 tsp ground cloves
-- 2 eggs
-
 
 ## Instructions
 
@@ -33,5 +31,5 @@
 
 ## Baking
 
-- 15 min at 425 F
-- 40-50 min at 350 F
+- 15 min at 425&deg;F
+- 40-50 min at 350&deg;F
