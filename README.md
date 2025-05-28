@@ -1,5 +1,7 @@
 # CodeRefinery recipe book
 
+[![Basic recipe checks](https://github.com/jpkline/recipe-book/actions/workflows/check-recipes.yml/badge.svg?branch=main)](https://github.com/jpkline/recipe-book/actions/workflows/check-recipes.yml)
+
 We use this repository to teach Git and also to collect
 some nice recipes.
 
